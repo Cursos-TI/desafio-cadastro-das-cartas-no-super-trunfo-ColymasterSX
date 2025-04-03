@@ -101,9 +101,10 @@
  
      printf("Quantidade de pontos turisticos: %d\n", pontosTuristicos1);//numero de pontos turisticos (card 1)
 
-     printf("O valor da Densidade Populacional(população dividido por area) é: %.3f\n", DensidadePopulacional1);
+     printf("O valor da Densidade Populacional(população dividido por area) é: %.3f\n", DensidadePopulacional1);//numero da densidade populacional (card 1)
 
-     printf("O valor do PIB per Capita(PIB dividido por população) é: %.3f\n", PIBperCapita1);
+     printf("O valor do PIB per Capita(PIB dividido por população) é: %.3f\n", PIBperCapita1); //numero do PIB per capita (card 1)
+
      printf("\n");
 
   //imprimindo as informações da carta 2
@@ -124,9 +125,9 @@
  
      printf("Quantidade de pontos turisticos: %d\n", pontosTuristicos2);//numero de pontos turisticos (card 2)
  
-     printf("O valor da Densidade Populacional(população dividido por area) é: %.3f\n", DensidadePopulacional2);
+     printf("O valor da Densidade Populacional(população dividido por area) é: %.3f\n", DensidadePopulacional2);//numero da densidade populacional (card 2)
 
-     printf("O valor do PIB per Capita(PIB dividido por população) é: %.3f\n", PIBperCapita2);
+     printf("O valor do PIB per Capita(PIB dividido por população) é: %.3f\n", PIBperCapita2);//numero do PIB per capita (card 2)
 
      return 0;
  }
